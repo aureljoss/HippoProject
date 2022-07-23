@@ -1,2 +1,2 @@
-# Codecademy-practice
-# git_practice
+# CodeCademy_project
+# CodeCademy_project
